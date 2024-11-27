@@ -27,3 +27,12 @@
 <br>
 
 !["Heart"](Heart.gif)
+
+<br>
+
+!["Heart2"](Heart2.gif)
+
+<br>
+
+!["Heart3"](Heart3.gif)
+
